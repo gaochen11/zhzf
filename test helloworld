@@ -1,0 +1,4 @@
+if(#echo)
+{
+  Response.Write("Hello World!");
+}
